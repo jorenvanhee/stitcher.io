@@ -1,3 +1,11 @@
+the-space-between-objects:
+    date: 2019-06-01
+    title: "間: the space between objects"
+    content: src/content/blog/the-space-between-objects.md
+    next: php-in-2019
+    meta:
+        description: "What is object oriented programming about?"
+
 new-in-php-74:
     date: 2019-05-17
     title: New in PHP 7.4

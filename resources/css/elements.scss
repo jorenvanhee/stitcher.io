@@ -266,10 +266,10 @@ hr {
     @include wrapper();
 
     position: relative;
-    height: 1px;
     border: 0;
     text-align: center;
-    margin: 4rem auto;
+    height: 16px;
+    margin: calc(4rem - 16px) auto 4rem;
 
     &::before {
         display: inline-block;
