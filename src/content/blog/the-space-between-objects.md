@@ -48,7 +48,7 @@ The 間 of object oriented programming are the processes that work with objects.
 They fill —&thinsp;they are&thinsp;— the gap between and within objects.
 
 I believe this is the why functional programming is growing in popularity: 
-functions are the gaps the make our program useful.
+functions are the gaps that make our program useful.
 It's also the biggest pitfall of OO programming as we know it today: 
 we think the objects themselves should provide the processes to work with them.
 
